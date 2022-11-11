@@ -11,7 +11,7 @@
     "url": "git+https://github.com/hoalan1314/content-change-monitor.git"
   },
   "author": "Alan Ho",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/hoalan1314/content-change-monitor/issues"
   },
