@@ -1,6 +1,6 @@
 # Content Change Monitor
 ## Description
-A simple html fetcher with cron support to compare html difference and send discord notification if difference found.
+A simple html fetcher with cron support to compare html difference and send discord notification if difference found. No database is required.
 
 ## Setup
 1. Run `npm install` to install required node modules, it is recommended to use version of Node.js >= 14
