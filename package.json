@@ -1,0 +1,25 @@
+{
+  "name": "content-change-monitor",
+  "version": "1.0.0",
+  "description": "A simple content change monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoalan1314/content-change-monitor.git"
+  },
+  "author": "Alan Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoalan1314/content-change-monitor/issues"
+  },
+  "homepage": "https://github.com/hoalan1314/content-change-monitor#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "bunyan": "^1.8.15",
+    "cheerio": "^1.0.0-rc.12",
+    "node-cron": "^3.0.2"
+  }
+}

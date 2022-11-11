@@ -1,0 +1,11 @@
+{
+  "discordWebhook": "<webhookUrl>",
+  "websites": [
+    {
+      "name": "<websiteName>",
+      "url": "<websiteUrl>",
+      "selector": "<selectorToBeMonitored>",
+      "cron": "<cronExpression>"
+    }
+  ]
+}
